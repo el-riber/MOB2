@@ -1,0 +1,17 @@
+{
+  "name": "generic-utility-library",
+  "version": "1.0.0",
+  "description": "A utility library that provides generic functions for array and object manipulation using TypeScript.",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "ts-node test/test.ts"
+  }
+}

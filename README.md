@@ -41,7 +41,7 @@ This generic function filters elements of an array based on a predicate function
 1. **Clone the repository:**
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/el-riber/MOB2>
 cd generic-utility-library
 ```
 
